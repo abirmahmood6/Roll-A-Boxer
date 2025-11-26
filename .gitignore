@@ -1,0 +1,26 @@
+# Unity folders
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+
+# Visual Studio / Rider / JetBrains
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+
+
